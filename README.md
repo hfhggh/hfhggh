@@ -1,1 +1,1 @@
-PhD student from LMU, department of chemistry
+Personal utils and notes
